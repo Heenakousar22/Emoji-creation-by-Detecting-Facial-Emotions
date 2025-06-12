@@ -54,7 +54,6 @@ tensorflow
 numpy
 matplotlib
 
-
  📂 Dataset
 
 This project uses the **FER2013 (Facial Expression Recognition 2013)** dataset, which contains thousands of labeled facial expression images.
@@ -63,7 +62,7 @@ Due to GitHub's file size limitations, the dataset is **not included in this rep
 
 🔽 You can download the dataset from:
 
-- [Kaggle – FER2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)
+- [Kaggle – FER2013 Dataset] (https://www.kaggle.com/datasets/msambare/fer2013)
 
 ### 📌 Steps to Use:
 1. Create a Kaggle account  (https://www.kaggle.com/) if you don't already have one.
